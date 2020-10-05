@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243937056813",
+    "firebase_url": "https://mapexample-f2066.firebaseio.com",
+    "project_id": "mapexample-f2066",
+    "storage_bucket": "mapexample-f2066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243937056813:android:f39b157cc4168a662f40a4",
+        "android_client_info": {
+          "package_name": "com.tailermade.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243937056813-b4jvu3cmaovkkdajuda50ig3i65tds71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUyeRLUTRL4TZVq25KWKcpC42Nl9UuOFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243937056813-b4jvu3cmaovkkdajuda50ig3i65tds71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
